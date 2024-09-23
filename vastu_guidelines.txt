@@ -1,0 +1,215 @@
+
+[
+    {
+        "room": "Master Bedroom",
+        "direction": "Southwest",
+        "placement_guidelines": "The master bedroom should be located in the southwest corner of the house. This placement ensures stability and strength in the family.",
+        "dos": "Keep the head of the bed facing south or west. Use neutral or earthy tones in decor for grounding energy.",
+        "donts": "Avoid placing the bed under a beam or near the door. Do not use dark colors in excess."
+    },
+    {
+        "room": "Kitchen",
+        "direction": "Southeast",
+        "placement_guidelines": "The kitchen should ideally be placed in the southeast corner, as it represents the fire element in Vastu.",
+        "dos": "Place the stove in the southeast corner. Cook while facing east to enhance energy flow.",
+        "donts": "Avoid placing the kitchen directly under or next to the bathroom. Don't use the northwest corner for the kitchen."
+    },
+    {
+        "room": "Living Room",
+        "direction": "North or East",
+        "placement_guidelines": "The living room should ideally be located in the north or east direction to attract positive energy and good fortune.",
+        "dos": "Place furniture in the southwest direction. Keep the center of the room open and clutter-free.",
+        "donts": "Avoid heavy furniture in the northeast corner and avoid dark colors in the room."
+    },
+    {
+        "room": "Bathroom",
+        "direction": "Northwest",
+        "placement_guidelines": "The bathroom should ideally be located in the northwest or southeast direction. This helps maintain hygiene and cleanliness.",
+        "dos": "Ensure proper ventilation and cleanliness in the bathroom. Keep it dry and well-lit.",
+        "donts": "Avoid placing the bathroom in the northeast or center of the house. Do not let water accumulate in the bathroom."
+    },
+    {
+        "room": "Study Room",
+        "direction": "Northeast or East",
+        "placement_guidelines": "The study room should be placed in the northeast or east direction to enhance focus and creativity.",
+        "dos": "Place the study table facing north or east. Use light colors for walls and decor.",
+        "donts": "Avoid placing the study room in the southwest or south direction. Avoid dark colors and clutter."
+    }
+]
+# Expanding the Vastu guidelines to 30 data entries for various rooms and placements
+
+vastu_data_extended = '''
+[
+    {
+        "room": "Master Bedroom",
+        "direction": "Southwest",
+        "placement_guidelines": "The master bedroom should be located in the southwest corner of the house. This placement ensures stability and strength in the family.",
+        "dos": "Keep the head of the bed facing south or west. Use neutral or earthy tones in decor for grounding energy.",
+        "donts": "Avoid placing the bed under a beam or near the door. Do not use dark colors in excess."
+    },
+    {
+        "room": "Kitchen",
+        "direction": "Southeast",
+        "placement_guidelines": "The kitchen should ideally be placed in the southeast corner, as it represents the fire element in Vastu.",
+        "dos": "Place the stove in the southeast corner. Cook while facing east to enhance energy flow.",
+        "donts": "Avoid placing the kitchen directly under or next to the bathroom. Don't use the northwest corner for the kitchen."
+    },
+    {
+        "room": "Living Room",
+        "direction": "North or East",
+        "placement_guidelines": "The living room should ideally be located in the north or east direction to attract positive energy and good fortune.",
+        "dos": "Place furniture in the southwest direction. Keep the center of the room open and clutter-free.",
+        "donts": "Avoid heavy furniture in the northeast corner and avoid dark colors in the room."
+    },
+    {
+        "room": "Bathroom",
+        "direction": "Northwest",
+        "placement_guidelines": "The bathroom should ideally be located in the northwest or southeast direction. This helps maintain hygiene and cleanliness.",
+        "dos": "Ensure proper ventilation and cleanliness in the bathroom. Keep it dry and well-lit.",
+        "donts": "Avoid placing the bathroom in the northeast or center of the house. Do not let water accumulate in the bathroom."
+    },
+    {
+        "room": "Study Room",
+        "direction": "Northeast or East",
+        "placement_guidelines": "The study room should be placed in the northeast or east direction to enhance focus and creativity.",
+        "dos": "Place the study table facing north or east. Use light colors for walls and decor.",
+        "donts": "Avoid placing the study room in the southwest or south direction. Avoid dark colors and clutter."
+    },
+    {
+        "room": "Dining Room",
+        "direction": "West",
+        "placement_guidelines": "The dining room should be placed in the west to ensure prosperity and health in the family.",
+        "dos": "Sit facing east or north while eating. Use light colors for a peaceful atmosphere.",
+        "donts": "Avoid placing the dining room in the south. Don't use dark or intense colors on the walls."
+    },
+    {
+        "room": "Guest Room",
+        "direction": "Northwest",
+        "placement_guidelines": "The guest room should be placed in the northwest corner of the house for harmonious guest stays.",
+        "dos": "Use light and neutral tones for the guest room. Place the bed in the southwest corner.",
+        "donts": "Avoid placing the guest room in the southeast or southwest corner."
+    },
+    {
+        "room": "Children's Room",
+        "direction": "West or Northwest",
+        "placement_guidelines": "The children's room should ideally be located in the west or northwest for better development and growth.",
+        "dos": "Place the study area in the north or east. Use vibrant but balanced colors for walls.",
+        "donts": "Avoid clutter and placing the bed in the northeast corner."
+    },
+    {
+        "room": "Home Office",
+        "direction": "North or East",
+        "placement_guidelines": "The home office should be placed in the north or east direction to increase focus and productivity.",
+        "dos": "Sit facing north or east while working. Keep the office area neat and organized.",
+        "donts": "Avoid placing your desk facing south or under a beam."
+    },
+    {
+        "room": "Pooja Room",
+        "direction": "Northeast",
+        "placement_guidelines": "The pooja room should always be located in the northeast direction to harness positive energy.",
+        "dos": "Keep the room clean and peaceful. Use light, soothing colors.",
+        "donts": "Avoid placing the pooja room in the south or under a staircase."
+    },
+    {
+        "room": "Storage Room",
+        "direction": "Southwest",
+        "placement_guidelines": "The storage room should be placed in the southwest or west direction for better organization.",
+        "dos": "Keep the storage area organized and decluttered.",
+        "donts": "Avoid placing the storage room in the northeast corner."
+    },
+    {
+        "room": "Staircase",
+        "direction": "South or West",
+        "placement_guidelines": "The staircase should ideally be placed in the south or west corner for balance and stability.",
+        "dos": "Ensure the staircase is well lit and designed with natural materials.",
+        "donts": "Avoid placing the staircase in the center of the house."
+    },
+    {
+        "room": "Balcony",
+        "direction": "North or East",
+        "placement_guidelines": "Balconies should ideally be located in the north or east to attract positive energy and sunlight.",
+        "dos": "Decorate the balcony with plants and natural elements.",
+        "donts": "Avoid placing the balcony in the southwest corner."
+    },
+    {
+        "room": "Entrance Door",
+        "direction": "North or East",
+        "placement_guidelines": "The main entrance should ideally be in the north or east to invite positive energy and opportunities.",
+        "dos": "Keep the entrance clean and well lit. Use auspicious symbols or plants for decoration.",
+        "donts": "Avoid placing shoes or clutter near the main door."
+    },
+    {
+        "room": "Garage",
+        "direction": "Northwest",
+        "placement_guidelines": "The garage should be located in the northwest direction to ensure the smooth functioning of the house.",
+        "dos": "Ensure proper ventilation and avoid clutter.",
+        "donts": "Avoid placing the garage in the southeast."
+    },
+    {
+        "room": "Store Room",
+        "direction": "Southwest",
+        "placement_guidelines": "The store room should be located in the southwest corner to ensure stability and avoid unnecessary clutter.",
+        "dos": "Keep the store room organized and clean.",
+        "donts": "Avoid placing the store room in the northeast corner."
+    },
+    {
+        "room": "Laundry Room",
+        "direction": "Northwest",
+        "placement_guidelines": "The laundry room should ideally be in the northwest direction for better management of the household chores.",
+        "dos": "Keep the laundry room well-ventilated and organized.",
+        "donts": "Avoid placing the laundry room in the northeast."
+    },
+    {
+        "room": "Prayer Room",
+        "direction": "Northeast",
+        "placement_guidelines": "The prayer room should be placed in the northeast direction to enhance spiritual energy.",
+        "dos": "Keep the prayer room clean and free from distractions.",
+        "donts": "Avoid placing the prayer room under a staircase or in the south."
+    },
+    {
+        "room": "Home Theater",
+        "direction": "Basement or Southwest",
+        "placement_guidelines": "The home theater can be placed in the basement or the southwest direction for optimal sound experience.",
+        "dos": "Use dark colors for soundproofing and better visuals.",
+        "donts": "Avoid placing the home theater in the northeast."
+    },
+    {
+        "room": "Guest Bathroom",
+        "direction": "Northwest",
+        "placement_guidelines": "The guest bathroom should be located in the northwest direction for convenience.",
+        "dos": "Ensure proper hygiene and cleanliness.",
+        "donts": "Avoid placing the guest bathroom in the northeast."
+    },
+    {
+        "room": "Lobby",
+        "direction": "North or East",
+        "placement_guidelines": "The lobby should be located in the north or east direction for better circulation of energy.",
+        "dos": "Keep the area well-lit and welcoming.",
+        "donts": "Avoid clutter and dark colors in the lobby."
+    },
+    {
+        "room": "Veranda",
+        "direction": "North or East",
+        "placement_guidelines": "The veranda should be located in the north or east to allow natural light and airflow.",
+        "dos": "Decorate the veranda with plants and comfortable seating.",
+        "donts": "Avoid placing the veranda in the southwest."
+    },
+    {
+        "room": "Water Tank",
+        "direction": "North or Northeast",
+        "placement_guidelines": "The overhead water tank should be placed in the north or northeast to maintain a balance in the water element.",
+        "dos": "Ensure the water tank is well-maintained and cleaned regularly.",
+        "donts": "Avoid placing the water tank in the southeast."
+    },
+    {
+        "room": "Swimming Pool",
+        "direction": "Northeast or North",
+        "placement_guidelines": "The swimming pool should be placed in the northeast or north direction for optimal energy flow.",
+        "dos": "Ensure proper maintenance and cleanliness of the pool.",
+        "donts": "Avoid placing the swimming pool in the southwest."
+    },
+    {
+        "room": "Basement",
+        "direction": "North or East",
+        "placement_guidelines": "The basement should ideally be placed in the north or east direction for stability and storage
+
